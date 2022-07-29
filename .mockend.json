@@ -1,5 +1,5 @@
 {
   "User": {
-    "title": { "string": {"Uma string aqui"} }
+    "title": { "string": "Uma string aqui" }
   }
 }
