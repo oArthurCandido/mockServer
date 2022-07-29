@@ -8,6 +8,12 @@
     },
     "creationDate":{
       "dateTime": { "min": "2022-01-01T00:00:00Z", "max": "2022-07-10T23:59:59Z" }
-  }
+    },
+    "occurrences":{
+      "int": {"min": 0, "max": 200}
+    },
+    "showInShop":{
+      "boolean": {}
+    }
 }
 }
