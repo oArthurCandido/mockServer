@@ -6,10 +6,10 @@
     "combination": {
       "int": { "min": 0, "max": 1000000  }
     },
-    "creationDate":{
+    "creationDate:{
       "dateTime": {
       "min": "2022-01-01T00:00:00Z",
-      "max": "2022-08-10T23:59:59Z"
+      "max": "2022-07-10T23:59:59Z"
     }
   }
 }
