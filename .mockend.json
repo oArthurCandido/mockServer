@@ -1,8 +1,1 @@
-{ "Appointments": 
-  {"Appointment": {
-  "clinic_id": {
-  "int": {"min": 1, "max": 100}
-  }
-  }}
-
-}
+{ "title": { "string": {} }
