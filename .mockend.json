@@ -1,5 +1,5 @@
 {
-  "appointments": [
+  "appointments": 
     {
       "Appointment": {
         "id": "478951",
@@ -168,7 +168,7 @@
       },
       "Attachment": []
     }
-  ],
+  ,
   "response": {
     "success": true
   },
