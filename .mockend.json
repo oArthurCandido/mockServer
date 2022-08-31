@@ -1,5 +1,5 @@
 {
-  "Appointment": {
+  "Post": {
     "clinic_id": { "int": {"min": 0, "max": 6} 
   },
   "Comment": {
