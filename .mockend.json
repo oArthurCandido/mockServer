@@ -1,6 +1,9 @@
 {
   "Post": {
-    "clinic_id": { "int": {"min": 0, "max": 6} 
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
   },
   "Comment": {
     "body": { "string": {} },
