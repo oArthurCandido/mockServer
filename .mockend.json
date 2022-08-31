@@ -1,6 +1,6 @@
 {
   "Appointment": {
-    "clinic_id": { "int": {"min": 0, "max": 6} },
+    "clinic_id": { "int": {"min": 0, "max": 6} 
   },
   "Comment": {
     "body": { "string": {} },
